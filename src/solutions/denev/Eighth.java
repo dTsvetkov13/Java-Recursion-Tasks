@@ -1,4 +1,4 @@
-package solutions;
+package solutions.denev;
 
 public class Eighth
 {

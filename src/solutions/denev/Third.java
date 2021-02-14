@@ -1,4 +1,4 @@
-package solutions;
+package solutions.denev;
 
 import java.util.Scanner;
 
